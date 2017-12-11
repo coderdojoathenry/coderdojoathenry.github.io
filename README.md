@@ -1,8 +1,10 @@
+![CoderDojo Athenry](images/cdathenry.JPG?raw=true "CD Athenry")
+
 # Coderdojo Athenry Showcase
 
-Athenry Coderdojo is one of Ireland's premier computer clubs for kids and meets every Saturday in Athenry at 12pm.
+Athenry Coderdojo is one of Ireland's premier computer clubs for kids and meets every Saturday in Athenry at 12pm.  
 
-Check out [our website](http://coderdojoathenry.com)!
+This page is mainly for demo projects - for full details and tutorials, check out [our website](http://coderdojoathenry.com)!!
 
 ## Explorers
 The _Explorers_ group, led by Martha, is where people usually start; they learn how to progam in Scratch and how to use graphics packages and stop-motion animation.  
