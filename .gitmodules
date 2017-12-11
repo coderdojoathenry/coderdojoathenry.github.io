@@ -1,3 +1,6 @@
 [submodule "creators2017"]
 	path = creators2017
 	url = https://github.com/coderdojoathenry/creators2017.git
+[submodule "coderdojo-intro2017"]
+	path = coderdojo-intro2017
+	url = https://github.com/markdav/coderdojo-intro2017.git
