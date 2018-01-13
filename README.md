@@ -1,4 +1,4 @@
-![CoderDojo Athenry](images/cdathenry.JPG?raw=true | width=100)
+![CoderDojo Athenry](images/cdathenry.JPG?raw=true "CDAthenry")
 
 # Coderdojo Athenry Showcase
 
