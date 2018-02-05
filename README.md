@@ -15,8 +15,8 @@ The _Advancers_ group, led by Oliver is for ninjas who have done a few years of 
 ## Creators
 The _Creators_ group, led by Kieran and Mark focuses on creative coding in various languages and platforms - largely in Javascript.  Creative coding is the use of code for the generation of artistic endeavours. This group is a great foundation in text-based coding which will serve the ninjas for life!  Because Creators use javascript, we can use this website as a showcase for our projects - check them out here:
 
-- [Creators Introduction Slides](coderdojo-intro2017)
-- [Creators 2017 Showcase](creators2017)
+- [Creators Introduction Slides](https://coderdojoathenry.github.io/coderdojo-intro2017)
+- [Creators 2017 Showcase](https://coderdojoathenry.github.io/creators2017)
 
 ## Bodgers 
 The _Bodgers_ group, led by Declan, involves digital making and physical computing using the Raspberry Pi and Arduino.  They also specialize in defending the dojo against zombie attacks.
