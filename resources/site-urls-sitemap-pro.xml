@@ -45,7 +45,7 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>/hpsc/diag/view</loc>
+        <loc>https://support.hpe.com/hpsc/diag/view</loc>
         <lastmod>2018-08-28</lastmod>
         <priority>0.5</priority>
         <coveo:metadata>
@@ -145,7 +145,7 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>/portal/site/hpsc/aae/home</loc>
+        <loc>https://support.hpe.com/portal/site/hpsc/aae/home</loc>
         <lastmod>2018-08-28</lastmod>
         <priority>0.5</priority>
         <coveo:metadata>
@@ -165,7 +165,7 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>/hpesc/home/datacentercare</loc>
+        <loc>https://support.hpe.com/hpesc/home/datacentercare</loc>
         <lastmod>2018-08-28</lastmod>
         <priority>0.5</priority>
         <coveo:metadata>
@@ -185,7 +185,7 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>https://idpstg.passport.hpe.com/affwebservices/public/saml2sso?SPID=hpflowcm.com</loc>
+        <loc>https://idp.passport.hpe.com/affwebservices/public/saml2sso?SPID=hpflowcm.com</loc>
         <lastmod>2018-08-28</lastmod>
         <priority>0.5</priority>
         <coveo:metadata>
@@ -205,7 +205,7 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>/portal/site/hpsc/it</loc>
+        <loc>https://support.hpe.com/portal/site/hpsc/it</loc>
         <lastmod>2018-08-28</lastmod>
         <priority>0.5</priority>
         <coveo:metadata>
@@ -265,7 +265,7 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>/portal/site/hpsc/patch/home</loc>
+        <loc>https://support.hpe.com/portal/site/hpsc/patch/home</loc>
         <lastmod>2018-08-28</lastmod>
         <priority>0.5</priority>
         <coveo:metadata>
@@ -285,7 +285,7 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>/portal/site/hpsc/template.PUBLIC_SPF_GLOBAL_HELP</loc>
+        <loc>https://support.hpe.com/portal/site/hpsc/template.PUBLIC_SPF_GLOBAL_HELP</loc>
         <lastmod>2018-08-28</lastmod>
         <priority>0.5</priority>
         <coveo:metadata>
@@ -345,7 +345,7 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>/portal/site/hpsc/public/kb/secBullArchive/</loc>
+        <loc>https://support.hpe.com/portal/site/hpsc/public/kb/secBullArchive/</loc>
         <lastmod>2018-08-28</lastmod>
         <priority>0.5</priority>
         <coveo:metadata>
@@ -365,7 +365,7 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>/portal/site/hpsc/settings</loc>
+        <loc>https://support.hpe.com/portal/site/hpsc/settings</loc>
         <lastmod>2018-08-28</lastmod>
         <priority>0.5</priority>
         <coveo:metadata>
@@ -405,7 +405,7 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>/portal/site/hpsc/public/help/contactHP/questions</loc>
+        <loc>https://support.hpe.com/portal/site/hpsc/public/help/contactHP/questions</loc>
         <lastmod>2018-08-28</lastmod>
         <priority>0.5</priority>
         <coveo:metadata>
@@ -445,7 +445,7 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>/portal/site/hpsc/public/scm/home?sp4ts.oid=5177953&amp;lc=en-US&amp;cc=US</loc>
+        <loc>https://support.hpe.com/portal/site/hpsc/public/scm/home?sp4ts.oid=5177953&amp;lc=en-US&amp;cc=US</loc>
         <lastmod>2018-08-28</lastmod>
         <priority>0.5</priority>
         <coveo:metadata>
@@ -465,7 +465,7 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>/hpesc/public/home</loc>
+        <loc>https://support.hpe.com/hpesc/public/home</loc>
         <lastmod>2018-08-28</lastmod>
         <priority>0.5</priority>
         <coveo:metadata>
@@ -485,7 +485,7 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>/hpsc/wc/public/home</loc>
+        <loc>https://support.hpe.com/hpsc/wc/public/home</loc>
         <lastmod>2018-08-28</lastmod>
         <priority>0.5</priority>
         <coveo:metadata>
