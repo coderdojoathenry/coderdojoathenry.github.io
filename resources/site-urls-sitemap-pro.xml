@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:coveo="http://www.coveo.com/schemas/metadata">
    <url>
-      <loc>https://pg-receiver-itg.glb.itcs.hpe.com/WclWeb/WclEntry.aspx?cc=us&amp;lang=en&amp;origin=acc&amp;co=hpe&amp;sp4ts.oid=5177953</loc>
+      <loc>https://pg-receiver-pro.glb.itcs.hpe.com/WclWeb/WclEntry.aspx</loc>
       <lastmod>2018-08-29</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
@@ -421,7 +421,7 @@
       </coveo:metadata>
    </url>
    <url>
-      <loc>https://beta.storefrontremote.com</loc>
+      <loc>https://infosight.hpe.com/app/login</loc>
       <lastmod>2018-08-29</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
