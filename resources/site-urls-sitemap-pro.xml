@@ -1,507 +1,503 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-      xmlns:coveo="http://www.coveo.com/schemas/metadata">
-    <url>
-        <loc>https://pg-receiver-itg.glb.itcs.hpe.com/WclWeb/WclEntry.aspx?cc=us&amp;lang=en&amp;origin=acc&amp;co=hpe&amp;sp4ts.oid=5177953</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>Chat with HPE</sitekeywordsen>
-            <sitekeywordsfr>Discuter avec HPE</sitekeywordsfr>
-            <sitekeywordsde>Chat mit HPE</sitekeywordsde>
-            <sitekeywordsit>Chattare con HPE</sitekeywordsit>
-            <sitekeywordses>Chat com a HPE</sitekeywordses>
-            <sitekeywordspt>Conversar com HPE</sitekeywordspt>
-            <sitekeywordspl>Porozmawiaj z HPE</sitekeywordspl>
-            <sitekeywordsru>Чат с HPE</sitekeywordsru>
-            <sitekeywordsko>HPE와 채팅</sitekeywordsko>
-            <sitekeywordsja>HPEサポートとのチャット</sitekeywordsja>
-            <sitekeywordszh>与慧与交谈</sitekeywordszh>
-            <sitekeywordszhtw>與 HPE 交談</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://www.hpe.com/us/en/contact-hpe.html</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>Contact HPE</sitekeywordsen>
-            <sitekeywordsfr>Contacter HPE</sitekeywordsfr>
-            <sitekeywordsde>Kontakt zu HPE aufnehmen</sitekeywordsde>
-            <sitekeywordsit>Contattare HPE</sitekeywordsit>
-            <sitekeywordses>Comuníquese con HPE</sitekeywordses>
-            <sitekeywordspt>Fale com a HPE</sitekeywordspt>
-            <sitekeywordspl>Kontakt z HPE</sitekeywordspl>
-            <sitekeywordsru>Cвязь с HPE</sitekeywordsru>
-            <sitekeywordsko>HPE에 문의</sitekeywordsko>
-            <sitekeywordsja>日本HPEへのお問い合わせ</sitekeywordsja>
-            <sitekeywordszh>联系慧与</sitekeywordszh>
-            <sitekeywordszhtw>聯絡 HPE</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://support.hpe.com/hpsc/diag/view</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>Diagnostic passwords</sitekeywordsen>
-            <sitekeywordsfr>Mots de passe de diagnostic</sitekeywordsfr>
-            <sitekeywordsde>Diagnosekennwörter</sitekeywordsde>
-            <sitekeywordsit>Password degli strumenti di diagnostica</sitekeywordsit>
-            <sitekeywordses>Contraseñas para diagnóstico</sitekeywordses>
-            <sitekeywordspt>Senhas de diagnóstico</sitekeywordspt>
-            <sitekeywordspl>Hasła diagnostyki</sitekeywordspl>
-            <sitekeywordsru>Пароли диагностики</sitekeywordsru>
-            <sitekeywordsko>진단 암호</sitekeywordsko>
-            <sitekeywordsja>診断パスワード</sitekeywordsja>
-            <sitekeywordszh>诊断密码</sitekeywordszh>
-            <sitekeywordszhtw>診斷密碼</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>http://community.hpe.com</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>Forums</sitekeywordsen>
-            <sitekeywordsfr>Forums</sitekeywordsfr>
-            <sitekeywordsde>Foren</sitekeywordsde>
-            <sitekeywordsit>Forum</sitekeywordsit>
-            <sitekeywordses>Foros</sitekeywordses>
-            <sitekeywordspt>Fóruns</sitekeywordspt>
-            <sitekeywordspl>Fora</sitekeywordspl>
-            <sitekeywordsru>Форумы</sitekeywordsru>
-            <sitekeywordsko>포럼</sitekeywordsko>
-            <sitekeywordsja>フォーラム</sitekeywordsja>
-            <sitekeywordszh>论坛</sitekeywordszh>
-            <sitekeywordszhtw>討論園地</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://ahsv-itg-ext.support.hpe.com/hpesc/ahsv-prom</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>HPE Active Health System Viewer</sitekeywordsen>
-            <sitekeywordsfr>Visionneuse de Active Health System HPE</sitekeywordsfr>
-            <sitekeywordsde>HPE Active Health System Viewer</sitekeywordsde>
-            <sitekeywordsit>Visore di HPE Active Health System</sitekeywordsit>
-            <sitekeywordses>Visor para el sistema de estado activo de HPE</sitekeywordses>
-            <sitekeywordspt>HPE Active Health System Viewer</sitekeywordspt>
-            <sitekeywordspl>Przeglądarka oprogramowania HPE Active Health System</sitekeywordspl>
-            <sitekeywordsru>HPE Средство просмотра для ПО Active Health System</sitekeywordsru>
-            <sitekeywordsko>HPE 액티브 헬스 시스템 뷰어</sitekeywordsko>
-            <sitekeywordsja>HPE Active Health Systemビューアー</sitekeywordsja>
-            <sitekeywordszh>HPE Active Health System Viewer</sitekeywordszh>
-            <sitekeywordszhtw>HPE 主動式運作狀況系統檢視器</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://www.hpe.com/us/en/home.html</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>HPE home</sitekeywordsen>
-            <sitekeywordsfr>Accueil HPE</sitekeywordsfr>
-            <sitekeywordsde>HPE home</sitekeywordsde>
-            <sitekeywordsit>Home HPE</sitekeywordsit>
-            <sitekeywordses>Página de inicio de HPE</sitekeywordses>
-            <sitekeywordspt>HPE - início</sitekeywordspt>
-            <sitekeywordspl>strona domowa HPE</sitekeywordspl>
-            <sitekeywordsru>домашняя страница HPE</sitekeywordsru>
-            <sitekeywordsko>HPE 홈</sitekeywordsko>
-            <sitekeywordsja>HPEホーム</sitekeywordsja>
-            <sitekeywordszh>慧与首页</sitekeywordszh>
-            <sitekeywordszhtw>HPE 首頁</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://h20588.www2.hpe.com/tsusbportal/index.do?lc=EN_US&amp;src=HPSC</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>HPE Software updates &amp; licensing</sitekeywordsen>
-            <sitekeywordsfr>Mises à jour et licences logicielles HPE</sitekeywordsfr>
-            <sitekeywordsde>HPE Software-Updates und Lizenzen</sitekeywordsde>
-            <sitekeywordsit>Aggiornamenti e licenze HPE software</sitekeywordsit>
-            <sitekeywordses>Licencias y actualizaciones de software de HPE</sitekeywordses>
-            <sitekeywordspt>Atualizações e licenciamento da HPE Software</sitekeywordspt>
-            <sitekeywordspl>Aktualizacje i licencje oprogramowania HPE</sitekeywordspl>
-            <sitekeywordsru>Обновление и лицензирование программного обеспечения HPE</sitekeywordsru>
-            <sitekeywordsko>HPE 소프트웨어 업데이트 및 라이센스</sitekeywordsko>
-            <sitekeywordsja>HPEソフトウェアアップデートとライセンス</sitekeywordsja>
-            <sitekeywordszh>慧与软件更新和许可</sitekeywordszh>
-            <sitekeywordszhtw>HPE 軟體更新與授權</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://support.hpe.com/portal/site/hpsc/aae/home</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>My contracts and warranties</sitekeywordsen>
-            <sitekeywordsfr>Mes contrats et garanties</sitekeywordsfr>
-            <sitekeywordsde>Meine Verträge und Garantien</sitekeywordsde>
-            <sitekeywordsit>Contratti e garanzie personali</sitekeywordsit>
-            <sitekeywordses>Mis contratos y garantías</sitekeywordses>
-            <sitekeywordspt>Meus contratos e garantias</sitekeywordspt>
-            <sitekeywordspl>Moje umowy i gwarancje</sitekeywordspl>
-            <sitekeywordsru>Мои контракты и гарантии</sitekeywordsru>
-            <sitekeywordsko>내 계약 및 보증</sitekeywordsko>
-            <sitekeywordsja>マイ契約および標準保証</sitekeywordsja>
-            <sitekeywordszh>我的合同和保修</sitekeywordszh>
-            <sitekeywordszhtw>我的合約與保固</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://support.hpe.com/hpesc/home/datacentercare</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>My Datacenter Care</sitekeywordsen>
-            <sitekeywordsfr>Mes Datacenter Care</sitekeywordsfr>
-            <sitekeywordsde>Mein Datacenter Care</sitekeywordsde>
-            <sitekeywordsit>Servizi per Datacenter personale</sitekeywordsit>
-            <sitekeywordses>Mi Servicio de atención de centro de datos</sitekeywordses>
-            <sitekeywordspt>Meu Datacenter Care</sitekeywordspt>
-            <sitekeywordspl>Moje Datacenter Care</sitekeywordspl>
-            <sitekeywordsru>My Datacenter Care</sitekeywordsru>
-            <sitekeywordsko>내 데이터센터 케어</sitekeywordsko>
-            <sitekeywordsja>マイデータセンターケア</sitekeywordsja>
-            <sitekeywordszh>我的数据中心运维保障服务</sitekeywordszh>
-            <sitekeywordszhtw>我的資料中心維護</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://idp.passport.hpe.com/affwebservices/public/saml2sso?SPID=hpflowcm.com</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>My Document Repository</sitekeywordsen>
-            <sitekeywordsfr>Mon référentiel de documents</sitekeywordsfr>
-            <sitekeywordsde>Mein Dokument-Archiv</sitekeywordsde>
-            <sitekeywordsit>Archivio documenti personale</sitekeywordsit>
-            <sitekeywordses>Mi depósito de documentos</sitekeywordses>
-            <sitekeywordspt>Meu repositório de documentos</sitekeywordspt>
-            <sitekeywordspl>Moje repozytorium dokumentów</sitekeywordspl>
-            <sitekeywordsru>Мое хранилище документов</sitekeywordsru>
-            <sitekeywordsko>내 문서 리포지토리</sitekeywordsko>
-            <sitekeywordsja>マイドキュメントリポジトリ</sitekeywordsja>
-            <sitekeywordszh>我的文档存储库</sitekeywordszh>
-            <sitekeywordszhtw>我的文件存放庫</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://support.hpe.com/portal/site/hpsc/it</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>My IT Environment</sitekeywordsen>
-            <sitekeywordsfr>Mon environnement informatique</sitekeywordsfr>
-            <sitekeywordsde>Meine IT-Umgebung</sitekeywordsde>
-            <sitekeywordsit>Ambiente IT personale</sitekeywordsit>
-            <sitekeywordses>Mi entorno de TI</sitekeywordses>
-            <sitekeywordspt>Meu ambiente de TI</sitekeywordspt>
-            <sitekeywordspl>Moje środowisko IT</sitekeywordspl>
-            <sitekeywordsru>Моя ИТ-среда</sitekeywordsru>
-            <sitekeywordsko>내 IT 환경</sitekeywordsko>
-            <sitekeywordsja>マイIT環境</sitekeywordsja>
-            <sitekeywordszh>我的 IT 环境</sitekeywordszh>
-            <sitekeywordszhtw>我的 IT 環境</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://hpe.com/networking/support</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>My Networking Portal</sitekeywordsen>
-            <sitekeywordsfr>Mon portail réseau</sitekeywordsfr>
-            <sitekeywordsde>Mein Networking-Portal</sitekeywordsde>
-            <sitekeywordsit>Portale Networking personale</sitekeywordsit>
-            <sitekeywordses>Mi portal de redes</sitekeywordses>
-            <sitekeywordspt>Meu portal de rede</sitekeywordspt>
-            <sitekeywordspl>Mój portal sieci</sitekeywordspl>
-            <sitekeywordsru>Мой сетевой портал</sitekeywordsru>
-            <sitekeywordsko>내 네트워킹 포털</sitekeywordsko>
-            <sitekeywordsja>マイネットワークポータル</sitekeywordsja>
-            <sitekeywordszh>我的网络门户网站</sitekeywordszh>
-            <sitekeywordszhtw>我的網路入口網站</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://infosight.nimblestorage.com</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>Nimble InfoSight</sitekeywordsen>
-            <sitekeywordsfr>Nimble InfoSight</sitekeywordsfr>
-            <sitekeywordsde>Nimble InfoSight</sitekeywordsde>
-            <sitekeywordsit>InfoSight Nimble</sitekeywordsit>
-            <sitekeywordses>Nimble InfoSight</sitekeywordses>
-            <sitekeywordspt>Nimble InfoSight</sitekeywordspt>
-            <sitekeywordspl>Zwinne InfoSight</sitekeywordspl>
-            <sitekeywordsru>Nimble InfoSight</sitekeywordsru>
-            <sitekeywordsko>Nimble InfoSight</sitekeywordsko>
-            <sitekeywordsja>Nimble InfoSight</sitekeywordsja>
-            <sitekeywordszh>Nimble InfoSight</sitekeywordszh>
-            <sitekeywordszhtw>Nimble InfoSight</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://support.hpe.com/portal/site/hpsc/patch/home</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>Patch management</sitekeywordsen>
-            <sitekeywordsfr>Gestion des correctifs</sitekeywordsfr>
-            <sitekeywordsde>Patch-Management</sitekeywordsde>
-            <sitekeywordsit>Gestione delle patch</sitekeywordsit>
-            <sitekeywordses>Administración de parches</sitekeywordses>
-            <sitekeywordspt>Gerenciamento de patches</sitekeywordspt>
-            <sitekeywordspl>Zarządzanie poprawkami</sitekeywordspl>
-            <sitekeywordsru>Управление исправлениями</sitekeywordsru>
-            <sitekeywordsko>패치 관리</sitekeywordsko>
-            <sitekeywordsja>パッチ管理</sitekeywordsja>
-            <sitekeywordszh>补丁程序管理</sitekeywordszh>
-            <sitekeywordszhtw>補強程式管理</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://support.hpe.com/portal/site/hpsc/template.PUBLIC_SPF_GLOBAL_HELP</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>Portal help</sitekeywordsen>
-            <sitekeywordsfr>Aide sur le Portail</sitekeywordsfr>
-            <sitekeywordsde>Portal-Hilfe</sitekeywordsde>
-            <sitekeywordsit>Guida al Portale</sitekeywordsit>
-            <sitekeywordses>Ayuda del Portal</sitekeywordses>
-            <sitekeywordspt>Ajuda do Portal</sitekeywordspt>
-            <sitekeywordspl>Pomoc w Portalu</sitekeywordspl>
-            <sitekeywordsru>Cправка по Nорталу</sitekeywordsru>
-            <sitekeywordsko>포털 도움말</sitekeywordsko>
-            <sitekeywordsja>ポータルヘルプ</sitekeywordsja>
-            <sitekeywordszh>门户网站帮助</sitekeywordszh>
-            <sitekeywordszhtw>入口網站說明</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>http://h41370.www4.hpe.com/quickspecs/overview.html</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>QuickSpecs Specs</sitekeywordsen>
-            <sitekeywordsfr>QuickSpecs Specs</sitekeywordsfr>
-            <sitekeywordsde>QuickSpecs Specs</sitekeywordsde>
-            <sitekeywordsit>QuickSpecs Specs</sitekeywordsit>
-            <sitekeywordses>QuickSpecs Specs</sitekeywordses>
-            <sitekeywordspt>QuickSpecs Specs</sitekeywordspt>
-            <sitekeywordspl>QuickSpecs Specs</sitekeywordspl>
-            <sitekeywordsru>QuickSpecs Specs</sitekeywordsru>
-            <sitekeywordsko>QuickSpecs Specs</sitekeywordsko>
-            <sitekeywordsja>QuickSpecs Specs</sitekeywordsja>
-            <sitekeywordszh>QuickSpecs Specs</sitekeywordszh>
-            <sitekeywordszhtw>QuickSpecs Specs</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://cfstg.passport.hpe.com/hppcf/createuser.do?lang=en&amp;cc=US&amp;hpappid=111319_HPSC_ITG_HPE&amp;applandingpage=https%3A%2F%2Fportal-ext-itg-h9.itcs.hpe.com%2Fhpesc%2Fpublic%2Fhome%2FdriverHome%3Fsp4ts.oid%3D5194968&amp;applandingpage2=https%3A%2F%2Fportal-ext-itg-h9.itcs.hpe.com%2Fhpesc%2Fpublic%2Fhome%2FdriverHome%3Fsp4ts.oid%3D5194968</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>Register</sitekeywordsen>
-            <sitekeywordsfr>S'inscrire</sitekeywordsfr>
-            <sitekeywordsde>Registrieren</sitekeywordsde>
-            <sitekeywordsit>Registra</sitekeywordsit>
-            <sitekeywordses>Registrar</sitekeywordses>
-            <sitekeywordspt>Cadastre-se</sitekeywordspt>
-            <sitekeywordspl>Zarejestruj się</sitekeywordspl>
-            <sitekeywordsru>Pегистрация</sitekeywordsru>
-            <sitekeywordsko>등록</sitekeywordsko>
-            <sitekeywordsja>登録</sitekeywordsja>
-            <sitekeywordszh>注册</sitekeywordszh>
-            <sitekeywordszhtw>註冊</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://support.hpe.com/portal/site/hpsc/public/kb/secBullArchive/</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>Security Bulletins</sitekeywordsen>
-            <sitekeywordsfr>Bulletins de sécurité</sitekeywordsfr>
-            <sitekeywordsde>Sicherheitsbulletins</sitekeywordsde>
-            <sitekeywordsit>Bollettini sulla sicurezza</sitekeywordsit>
-            <sitekeywordses>Boletines de seguridad</sitekeywordses>
-            <sitekeywordspt>Boletins de segurança</sitekeywordspt>
-            <sitekeywordspl>Biuletyny zabezpieczeń</sitekeywordspl>
-            <sitekeywordsru>Бюллетени безопасности</sitekeywordsru>
-            <sitekeywordsko>보안 게시판</sitekeywordsko>
-            <sitekeywordsja>セキュリティ情報</sitekeywordsja>
-            <sitekeywordszh>安全公告</sitekeywordszh>
-            <sitekeywordszhtw>安全公告</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://support.hpe.com/portal/site/hpsc/settings</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>Settings</sitekeywordsen>
-            <sitekeywordsfr>Paramètres</sitekeywordsfr>
-            <sitekeywordsde>Einstellungen</sitekeywordsde>
-            <sitekeywordsit>Impostazioni</sitekeywordsit>
-            <sitekeywordses>Configuración</sitekeywordses>
-            <sitekeywordspt>Configurações</sitekeywordspt>
-            <sitekeywordspl>Ustawienia</sitekeywordspl>
-            <sitekeywordsru>Hастройки</sitekeywordsru>
-            <sitekeywordsko>설정</sitekeywordsko>
-            <sitekeywordsja>設定</sitekeywordsja>
-            <sitekeywordszh>设置</sitekeywordszh>
-            <sitekeywordszhtw>設定</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://support1-sgi.custhelp.com/</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>SGI Customer Portal</sitekeywordsen>
-            <sitekeywordsfr>Portail client SGI</sitekeywordsfr>
-            <sitekeywordsde>SGI Kundenportal</sitekeywordsde>
-            <sitekeywordsit>Portale clienti SGI</sitekeywordsit>
-            <sitekeywordses>Portal del cliente SGI</sitekeywordses>
-            <sitekeywordspt>Portal do cliente da SGI</sitekeywordspt>
-            <sitekeywordspl>Portal klienta SGI</sitekeywordspl>
-            <sitekeywordsru>Клиентский портал SGI</sitekeywordsru>
-            <sitekeywordsko>SGI 고객 포털</sitekeywordsko>
-            <sitekeywordsja>SGIカスタマーポータル</sitekeywordsja>
-            <sitekeywordszh>SGI 客户门户网站</sitekeywordszh>
-            <sitekeywordszhtw>SGI 客戶入口網站</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://support.hpe.com/portal/site/hpsc/public/help/contactHP/questions</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>Site support</sitekeywordsen>
-            <sitekeywordsfr>Assistance sur le site</sitekeywordsfr>
-            <sitekeywordsde>Vor-Ort-Support</sitekeywordsde>
-            <sitekeywordsit>Assistenza sito</sitekeywordsit>
-            <sitekeywordses>Soporte del sitio</sitekeywordses>
-            <sitekeywordspt>Suporte do site</sitekeywordspt>
-            <sitekeywordspl>Wsparcie w witrynie</sitekeywordspl>
-            <sitekeywordsru>Nоддержка сайта</sitekeywordsru>
-            <sitekeywordsko>사이트 지원</sitekeywordsko>
-            <sitekeywordsja>サイトサポート</sitekeywordsja>
-            <sitekeywordszh>网站支持</sitekeywordszh>
-            <sitekeywordszhtw>網站支援</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://beta.storefrontremote.com</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>StoreFront Remote</sitekeywordsen>
-            <sitekeywordsfr>StoreFront Remote</sitekeywordsfr>
-            <sitekeywordsde>StoreFront Remote</sitekeywordsde>
-            <sitekeywordsit>StoreFront Remote</sitekeywordsit>
-            <sitekeywordses>StoreFront Remote</sitekeywordses>
-            <sitekeywordspt>StoreFront Remote</sitekeywordspt>
-            <sitekeywordspl>StoreFront Remote</sitekeywordspl>
-            <sitekeywordsru>StoreFront Remote</sitekeywordsru>
-            <sitekeywordsko>StoreFront Remote</sitekeywordsko>
-            <sitekeywordsja>StoreFront Remote</sitekeywordsja>
-            <sitekeywordszh>StoreFront Remote</sitekeywordszh>
-            <sitekeywordszhtw>StoreFront Remote</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://support.hpe.com/portal/site/hpsc/public/scm/home?sp4ts.oid=5177953&amp;lc=en-US&amp;cc=US</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>Submit or manage support cases</sitekeywordsen>
-            <sitekeywordsfr>Soumettre ou gérer des dossiers d'assistance</sitekeywordsfr>
-            <sitekeywordsde>Senden und Verwalten von Supportanfragen</sitekeywordsde>
-            <sitekeywordsit>Inoltrare e gestire chiamate di assistenza</sitekeywordsit>
-            <sitekeywordses>Enviar o administrar casos de soporte</sitekeywordses>
-            <sitekeywordspt>Enviar ou gerenciar casos de suporte</sitekeywordspt>
-            <sitekeywordspl>Przesyłanie lub zarządzanie zgłoszeniami serwisowymi</sitekeywordspl>
-            <sitekeywordsru>Подача заявок на техническую поддержку и управление</sitekeywordsru>
-            <sitekeywordsko>지원 케이스 제출 또는 관리</sitekeywordsko>
-            <sitekeywordsja>サポートケースの送信/管理</sitekeywordsja>
-            <sitekeywordszh>保修信息查询</sitekeywordszh>
-            <sitekeywordszhtw>提交或管理支援服務案</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://support.hpe.com/hpesc/public/home</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>Support Center Home</sitekeywordsen>
-            <sitekeywordsfr>Page d'accueil du Support Center</sitekeywordsfr>
-            <sitekeywordsde>Startseite des Support Centers</sitekeywordsde>
-            <sitekeywordsit>Home page di Support Center</sitekeywordsit>
-            <sitekeywordses>Página de inicio del Centro de soporte</sitekeywordses>
-            <sitekeywordspt>Página inicial do Centro de suporte</sitekeywordspt>
-            <sitekeywordspl>Strona główna Centrum wsparcia</sitekeywordspl>
-            <sitekeywordsru>Главная страница центра поддержки</sitekeywordsru>
-            <sitekeywordsko>고객 지원 센터 홈</sitekeywordsko>
-            <sitekeywordsja>サポートセンターホーム</sitekeywordsja>
-            <sitekeywordszh>支持中心主页</sitekeywordszh>
-            <sitekeywordszhtw>支援中心首頁</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://support.hpe.com/hpsc/wc/public/home</loc>
-        <lastmod>2018-08-28</lastmod>
-        <priority>0.5</priority>
-        <coveo:metadata>
-            <modificationdate>2018-08-28</modificationdate>
-            <sitekeywordsen>Warranty check</sitekeywordsen>
-            <sitekeywordsfr>Vérification de garantie</sitekeywordsfr>
-            <sitekeywordsde>Garantieüberprüfung</sitekeywordsde>
-            <sitekeywordsit>Controllo della garanzia</sitekeywordsit>
-            <sitekeywordses>Comprobación de la garantía</sitekeywordses>
-            <sitekeywordspt>Verificação de garantia</sitekeywordspt>
-            <sitekeywordspl>Sprawdzanie gwarancji</sitekeywordspl>
-            <sitekeywordsru>Nроверка гарантии</sitekeywordsru>
-            <sitekeywordsko>보증 확인</sitekeywordsko>
-            <sitekeywordsja>標準保証の確認</sitekeywordsja>
-            <sitekeywordszh>保修信息查询</sitekeywordszh>
-            <sitekeywordszhtw>保固檢查</sitekeywordszhtw>
-        </coveo:metadata>
-    </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:coveo="http://www.coveo.com/schemas/metadata">
+   <url>
+      <loc>https://pg-receiver-itg.glb.itcs.hpe.com/WclWeb/WclEntry.aspx?cc=us&amp;lang=en&amp;origin=acc&amp;co=hpe&amp;sp4ts.oid=5177953</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[Chat with HPE]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Discuter avec HPE]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Chat mit HPE]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Chattare con HPE]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Chat com a HPE]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Conversar com HPE]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Porozmawiaj z HPE]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Чат с HPE]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[HPE와 채팅]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[HPEサポートとのチャット]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[与慧与交谈]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[與 HPE 交談]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://www.hpe.com/us/en/contact-hpe.html</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[Contact HPE]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Contacter HPE]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Kontakt zu HPE aufnehmen]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Contattare HPE]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Comuníquese con HPE]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Fale com a HPE]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Kontakt z HPE]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Cвязь с HPE]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[HPE에 문의]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[日本HPEへのお問い合わせ]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[联系慧与]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[聯絡 HPE]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://support.hpe.com/hpsc/diag/view</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[Diagnostic passwords]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Mots de passe de diagnostic]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Diagnosekennwörter]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Password degli strumenti di diagnostica]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Contraseñas para diagnóstico]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Senhas de diagnóstico]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Hasła diagnostyki]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Пароли диагностики]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[진단 암호]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[診断パスワード]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[诊断密码]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[診斷密碼]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>http://community.hpe.com</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[Forums]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Forums]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Foren]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Forum]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Foros]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Fóruns]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Fora]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Форумы]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[포럼]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[フォーラム]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[论坛]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[討論園地]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://ahsv-itg-ext.support.hpe.com/hpesc/ahsv-prom</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[HPE Active Health System Viewer]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Visionneuse de Active Health System HPE]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[HPE Active Health System Viewer]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Visore di HPE Active Health System]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Visor para el sistema de estado activo de HPE]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[HPE Active Health System Viewer]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Przeglądarka oprogramowania HPE Active Health System]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[HPE Средство просмотра для ПО Active Health System]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[HPE 액티브 헬스 시스템 뷰어]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[HPE Active Health Systemビューアー]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[HPE Active Health System Viewer]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[HPE 主動式運作狀況系統檢視器]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://www.hpe.com/us/en/home.html</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[HPE home]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Accueil HPE]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[HPE home]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Home HPE]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Página de inicio de HPE]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[HPE - início]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[strona domowa HPE]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[домашняя страница HPE]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[HPE 홈]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[HPEホーム]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[慧与首页]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[HPE 首頁]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://h20588.www2.hpe.com/tsusbportal/index.do?lc=EN_US&amp;src=HPSC</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[HPE Software updates & licensing]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Mises à jour et licences logicielles HPE]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[HPE Software-Updates und Lizenzen]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Aggiornamenti e licenze HPE software]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Licencias y actualizaciones de software de HPE]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Atualizações e licenciamento da HPE Software]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Aktualizacje i licencje oprogramowania HPE]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Обновление и лицензирование программного обеспечения HPE]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[HPE 소프트웨어 업데이트 및 라이센스]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[HPEソフトウェアアップデートとライセンス]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[慧与软件更新和许可]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[HPE 軟體更新與授權]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://support.hpe.com/portal/site/hpsc/aae/home</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[My contracts and warranties]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Mes contrats et garanties]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Meine Verträge und Garantien]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Contratti e garanzie personali]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Mis contratos y garantías]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Meus contratos e garantias]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Moje umowy i gwarancje]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Мои контракты и гарантии]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[내 계약 및 보증]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[マイ契約および標準保証]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[我的合同和保修]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[我的合約與保固]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://support.hpe.com/hpesc/home/datacentercare</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[My Datacenter Care]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Mes Datacenter Care]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Mein Datacenter Care]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Servizi per Datacenter personale]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Mi Servicio de atención de centro de datos]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Meu Datacenter Care]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Moje Datacenter Care]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[My Datacenter Care]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[내 데이터센터 케어]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[マイデータセンターケア]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[我的数据中心运维保障服务]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[我的資料中心維護]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://idp.passport.hpe.com/affwebservices/public/saml2sso?SPID=hpflowcm.com</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[My Document Repository]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Mon référentiel de documents]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Mein Dokument-Archiv]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Archivio documenti personale]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Mi depósito de documentos]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Meu repositório de documentos]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Moje repozytorium dokumentów]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Мое хранилище документов]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[내 문서 리포지토리]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[マイドキュメントリポジトリ]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[我的文档存储库]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[我的文件存放庫]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://support.hpe.com/portal/site/hpsc/it</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[My IT Environment]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Mon environnement informatique]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Meine IT-Umgebung]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Ambiente IT personale]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Mi entorno de TI]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Meu ambiente de TI]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Moje środowisko IT]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Моя ИТ-среда]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[내 IT 환경]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[マイIT環境]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[我的 IT 环境]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[我的 IT 環境]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://hpe.com/networking/support</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[My Networking Portal]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Mon portail réseau]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Mein Networking-Portal]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Portale Networking personale]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Mi portal de redes]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Meu portal de rede]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Mój portal sieci]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Мой сетевой портал]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[내 네트워킹 포털]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[マイネットワークポータル]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[我的网络门户网站]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[我的網路入口網站]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://infosight.nimblestorage.com</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[Nimble InfoSight]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Nimble InfoSight]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Nimble InfoSight]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[InfoSight Nimble]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Nimble InfoSight]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Nimble InfoSight]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Zwinne InfoSight]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Nimble InfoSight]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[Nimble InfoSight]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[Nimble InfoSight]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[Nimble InfoSight]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[Nimble InfoSight]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://support.hpe.com/portal/site/hpsc/patch/home</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[Patch management]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Gestion des correctifs]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Patch-Management]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Gestione delle patch]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Administración de parches]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Gerenciamento de patches]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Zarządzanie poprawkami]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Управление исправлениями]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[패치 관리]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[パッチ管理]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[补丁程序管理]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[補強程式管理]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://support.hpe.com/portal/site/hpsc/template.PUBLIC_SPF_GLOBAL_HELP</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[Portal help]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Aide sur le Portail]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Portal-Hilfe]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Guida al Portale]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Ayuda del Portal]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Ajuda do Portal]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Pomoc w Portalu]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Cправка по Nорталу]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[포털 도움말]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[ポータルヘルプ]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[门户网站帮助]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[入口網站說明]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>http://h41370.www4.hpe.com/quickspecs/overview.html</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[QuickSpecs Specs]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[QuickSpecs Specs]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[QuickSpecs Specs]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[QuickSpecs Specs]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[QuickSpecs Specs]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[QuickSpecs Specs]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[QuickSpecs Specs]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[QuickSpecs Specs]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[QuickSpecs Specs]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[QuickSpecs Specs]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[QuickSpecs Specs]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[QuickSpecs Specs]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://cfstg.passport.hpe.com/hppcf/createuser.do?lang=en&amp;cc=US&amp;hpappid=111319_HPSC_ITG_HPE&amp;applandingpage=https%3A%2F%2Fportal-ext-itg-h9.itcs.hpe.com%2Fhpesc%2Fpublic%2Fhome%2FdriverHome%3Fsp4ts.oid%3D5194968&amp;applandingpage2=https%3A%2F%2Fportal-ext-itg-h9.itcs.hpe.com%2Fhpesc%2Fpublic%2Fhome%2FdriverHome%3Fsp4ts.oid%3D5194968</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[Register]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[S'inscrire]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Registrieren]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Registra]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Registrar]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Cadastre-se]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Zarejestruj się]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Pегистрация]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[등록]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[登録]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[注册]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[註冊]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://support.hpe.com/portal/site/hpsc/public/kb/secBullArchive/</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[Security Bulletins]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Bulletins de sécurité]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Sicherheitsbulletins]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Bollettini sulla sicurezza]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Boletines de seguridad]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Boletins de segurança]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Biuletyny zabezpieczeń]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Бюллетени безопасности]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[보안 게시판]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[セキュリティ情報]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[安全公告]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[安全公告]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://support.hpe.com/portal/site/hpsc/settings</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[Settings]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Paramètres]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Einstellungen]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Impostazioni]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Configuración]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Configurações]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Ustawienia]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Hастройки]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[설정]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[設定]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[设置]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[設定]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://support1-sgi.custhelp.com/</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[SGI Customer Portal]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Portail client SGI]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[SGI Kundenportal]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Portale clienti SGI]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Portal del cliente SGI]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Portal do cliente da SGI]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Portal klienta SGI]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Клиентский портал SGI]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[SGI 고객 포털]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[SGIカスタマーポータル]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[SGI 客户门户网站]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[SGI 客戶入口網站]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://support.hpe.com/portal/site/hpsc/public/help/contactHP/questions</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[Site support]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Assistance sur le site]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Vor-Ort-Support]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Assistenza sito]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Soporte del sitio]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Suporte do site]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Wsparcie w witrynie]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Nоддержка сайта]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[사이트 지원]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[サイトサポート]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[网站支持]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[網站支援]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://beta.storefrontremote.com</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[StoreFront Remote]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[StoreFront Remote]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[StoreFront Remote]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[StoreFront Remote]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[StoreFront Remote]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[StoreFront Remote]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[StoreFront Remote]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[StoreFront Remote]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[StoreFront Remote]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[StoreFront Remote]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[StoreFront Remote]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[StoreFront Remote]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://support.hpe.com/portal/site/hpsc/public/scm/home?sp4ts.oid=5177953&amp;lc=en-US&amp;cc=US</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[Submit or manage support cases]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Soumettre ou gérer des dossiers d'assistance]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Senden und Verwalten von Supportanfragen]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Inoltrare e gestire chiamate di assistenza]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Enviar o administrar casos de soporte]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Enviar ou gerenciar casos de suporte]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Przesyłanie lub zarządzanie zgłoszeniami serwisowymi]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Подача заявок на техническую поддержку и управление]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[지원 케이스 제출 또는 관리]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[サポートケースの送信/管理]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[保修信息查询]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[提交或管理支援服務案]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://support.hpe.com/hpesc/public/home</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[Support Center Home]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Page d'accueil du Support Center]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Startseite des Support Centers]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Home page di Support Center]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Página de inicio del Centro de soporte]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Página inicial do Centro de suporte]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Strona główna Centrum wsparcia]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Главная страница центра поддержки]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[고객 지원 센터 홈]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[サポートセンターホーム]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[支持中心主页]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[支援中心首頁]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://support.hpe.com/hpsc/wc/public/home</loc>
+      <lastmod>2018-08-29</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationDate>2018-08-29</modificationDate>
+         <sitekeywordsen><![CDATA[Warranty check]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Vérification de garantie]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Garantieüberprüfung]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Controllo della garanzia]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Comprobación de la garantía]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Verificação de garantia]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Sprawdzanie gwarancji]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Nроверка гарантии]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[보증 확인]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[標準保証の確認]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[保修信息查询]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[保固檢查]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
 </urlset>
