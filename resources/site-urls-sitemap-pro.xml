@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:coveo="http://www.coveo.com/schemas/metadata">
    <url>
-      <loc>https://pg-receiver-pro.glb.itcs.hpe.com/WclWeb/WclEntry.aspx</loc>
-      <lastmod>2018-08-31</lastmod>
+      <loc>http://community.hpe.com</loc>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
+         <sitekeywordsen><![CDATA[Forums]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Forums]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Foren]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Forum]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Foros]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Fóruns]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Fora]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Форумы]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[포럼]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[フォーラム]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[论坛]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[討論園地]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://pg-receiver-pro.glb.itcs.hpe.com/WclWeb/WclEntry.aspx</loc>
+      <lastmod>2018-09-18</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[Chat with HPE]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Discuter avec HPE]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[Chat mit HPE]]></sitekeywordsde>
@@ -22,10 +42,10 @@
    </url>
    <url>
       <loc>https://www.hpe.com/us/en/contact-hpe.html</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[Contact HPE]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Contacter HPE]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[Kontakt zu HPE aufnehmen]]></sitekeywordsde>
@@ -42,10 +62,10 @@
    </url>
    <url>
       <loc>https://support.hpe.com/hpsc/diag/view</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[Diagnostic passwords]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Mots de passe de diagnostic]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[Diagnosekennwörter]]></sitekeywordsde>
@@ -61,31 +81,11 @@
       </coveo:metadata>
    </url>
    <url>
-      <loc>http://community.hpe.com</loc>
-      <lastmod>2018-08-31</lastmod>
-      <priority>0.5</priority>
-      <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
-         <sitekeywordsen><![CDATA[Forums]]></sitekeywordsen>
-         <sitekeywordsfr><![CDATA[Forums]]></sitekeywordsfr>
-         <sitekeywordsde><![CDATA[Foren]]></sitekeywordsde>
-         <sitekeywordsit><![CDATA[Forum]]></sitekeywordsit>
-         <sitekeywordses><![CDATA[Foros]]></sitekeywordses>
-         <sitekeywordspt><![CDATA[Fóruns]]></sitekeywordspt>
-         <sitekeywordspl><![CDATA[Fora]]></sitekeywordspl>
-         <sitekeywordsru><![CDATA[Форумы]]></sitekeywordsru>
-         <sitekeywordsko><![CDATA[포럼]]></sitekeywordsko>
-         <sitekeywordsja><![CDATA[フォーラム]]></sitekeywordsja>
-         <sitekeywordszh><![CDATA[论坛]]></sitekeywordszh>
-         <sitekeywordszhtw><![CDATA[討論園地]]></sitekeywordszhtw>
-      </coveo:metadata>
-   </url>
-   <url>
       <loc>https://ahsv.support.hpe.com/hpesc/ahsv</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[HPE Active Health System Viewer]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Visionneuse de Active Health System HPE]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[HPE Active Health System Viewer]]></sitekeywordsde>
@@ -102,10 +102,10 @@
    </url>
    <url>
       <loc>https://www.hpe.com/us/en/home.html</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[HPE home]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Accueil HPE]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[HPE home]]></sitekeywordsde>
@@ -122,13 +122,13 @@
    </url>
    <url>
       <loc>https://h20575.www2.hpe.com/tsusbportal/index.do?lc=EN_US&amp;src=HPSC</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[HPE Software updates & licensing]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Mises à jour et licences logicielles HPE]]></sitekeywordsfr>
-         <sitekeywordsde><![CDATA[HPE Software-Updates und Lizenzen]]></sitekeywordsde>
+         <sitekeywordsde><![CDATA[HPE Software-Updates und Lizenzen]]></sitekeywordsde>
          <sitekeywordsit><![CDATA[Aggiornamenti e licenze HPE software]]></sitekeywordsit>
          <sitekeywordses><![CDATA[Licencias y actualizaciones de software de HPE]]></sitekeywordses>
          <sitekeywordspt><![CDATA[Atualizações e licenciamento da HPE Software]]></sitekeywordspt>
@@ -142,10 +142,10 @@
    </url>
    <url>
       <loc>https://support.hpe.com/portal/site/hpsc/aae/home</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[My contracts and warranties]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Mes contrats et garanties]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[Meine Verträge und Garantien]]></sitekeywordsde>
@@ -162,10 +162,10 @@
    </url>
    <url>
       <loc>https://support.hpe.com/hpesc/home/datacentercare</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[My Datacenter Care]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Mes Datacenter Care]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[Mein Datacenter Care]]></sitekeywordsde>
@@ -182,10 +182,10 @@
    </url>
    <url>
       <loc>https://idp.passport.hpe.com/affwebservices/public/saml2sso?SPID=hpflowcm.com</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[My Document Repository]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Mon référentiel de documents]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[Mein Dokument-Archiv]]></sitekeywordsde>
@@ -202,10 +202,10 @@
    </url>
    <url>
       <loc>https://support.hpe.com/portal/site/hpsc/it</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[My IT Environment]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Mon environnement informatique]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[Meine IT-Umgebung]]></sitekeywordsde>
@@ -221,11 +221,11 @@
       </coveo:metadata>
    </url>
    <url>
-      <loc>https://hpe.com/networking/support</loc>
-      <lastmod>2018-08-31</lastmod>
+      <loc>https://www.hpe.com/networking/support</loc>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[My Networking Portal]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Mon portail réseau]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[Mein Networking-Portal]]></sitekeywordsde>
@@ -241,11 +241,11 @@
       </coveo:metadata>
    </url>
    <url>
-      <loc>https://infosight.nimblestorage.com</loc>
-      <lastmod>2018-08-31</lastmod>
+      <loc>https://infosight.nimblestorage.com/</loc>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[Nimble InfoSight]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Nimble InfoSight]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[Nimble InfoSight]]></sitekeywordsde>
@@ -262,10 +262,10 @@
    </url>
    <url>
       <loc>https://support.hpe.com/portal/site/hpsc/patch/home</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[Patch management]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Gestion des correctifs]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[Patch-Management]]></sitekeywordsde>
@@ -282,10 +282,10 @@
    </url>
    <url>
       <loc>https://support.hpe.com/portal/site/hpsc/template.PUBLIC_SPF_GLOBAL_HELP</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[Portal help]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Aide sur le Portail]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[Portal-Hilfe]]></sitekeywordsde>
@@ -302,10 +302,10 @@
    </url>
    <url>
       <loc>http://h41370.www4.hpe.com/quickspecs/overview.html</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[QuickSpecs Specs]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[QuickSpecs Specs]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[QuickSpecs Specs]]></sitekeywordsde>
@@ -322,10 +322,10 @@
    </url>
    <url>
       <loc>https://cf.passport.hpe.com/hppcf/createuser.do?lang=en&amp;cc=US&amp;hpappid=CURIOSITY_PRO_HPE&amp;applandingpage=https%3A%2F%2Fsupport.hpe.com%2Fhpesc%2Fpublic%2Fhome</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[Register]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[S'inscrire]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[Registrieren]]></sitekeywordsde>
@@ -342,10 +342,10 @@
    </url>
    <url>
       <loc>https://support.hpe.com/portal/site/hpsc/public/kb/secBullArchive/</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[Security Bulletins]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Bulletins de sécurité]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[Sicherheitsbulletins]]></sitekeywordsde>
@@ -362,10 +362,10 @@
    </url>
    <url>
       <loc>https://support.hpe.com/portal/site/hpsc/settings</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[Settings]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Paramètres]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[Einstellungen]]></sitekeywordsde>
@@ -381,31 +381,11 @@
       </coveo:metadata>
    </url>
    <url>
-      <loc>https://support1-sgi.custhelp.com/</loc>
-      <lastmod>2018-08-31</lastmod>
-      <priority>0.5</priority>
-      <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
-         <sitekeywordsen><![CDATA[SGI Customer Portal]]></sitekeywordsen>
-         <sitekeywordsfr><![CDATA[Portail client SGI]]></sitekeywordsfr>
-         <sitekeywordsde><![CDATA[SGI Kundenportal]]></sitekeywordsde>
-         <sitekeywordsit><![CDATA[Portale clienti SGI]]></sitekeywordsit>
-         <sitekeywordses><![CDATA[Portal del cliente SGI]]></sitekeywordses>
-         <sitekeywordspt><![CDATA[Portal do cliente da SGI]]></sitekeywordspt>
-         <sitekeywordspl><![CDATA[Portal klienta SGI]]></sitekeywordspl>
-         <sitekeywordsru><![CDATA[Клиентский портал SGI]]></sitekeywordsru>
-         <sitekeywordsko><![CDATA[SGI 고객 포털]]></sitekeywordsko>
-         <sitekeywordsja><![CDATA[SGIカスタマーポータル]]></sitekeywordsja>
-         <sitekeywordszh><![CDATA[SGI 客户门户网站]]></sitekeywordszh>
-         <sitekeywordszhtw><![CDATA[SGI 客戶入口網站]]></sitekeywordszhtw>
-      </coveo:metadata>
-   </url>
-   <url>
       <loc>https://support.hpe.com/portal/site/hpsc/public/help/contactHP/questions</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[Site support]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Assistance sur le site]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[Vor-Ort-Support]]></sitekeywordsde>
@@ -422,10 +402,10 @@
    </url>
    <url>
       <loc>https://infosight.hpe.com/app/login</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[StoreFront Remote]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[StoreFront Remote]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[StoreFront Remote]]></sitekeywordsde>
@@ -442,10 +422,10 @@
    </url>
    <url>
       <loc>https://support.hpe.com/portal/site/hpsc/public/scm/home</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[Submit or manage support cases]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Soumettre ou gérer des dossiers d'assistance]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[Senden und Verwalten von Supportanfragen]]></sitekeywordsde>
@@ -462,13 +442,13 @@
    </url>
    <url>
       <loc>https://support.hpe.com/hpesc/public/home</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[Support Center Home]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Page d'accueil du Support Center]]></sitekeywordsfr>
-         <sitekeywordsde><![CDATA[Startseite des Support Centers]]></sitekeywordsde>
+         <sitekeywordsde><![CDATA[Startseite des Support Centers]]></sitekeywordsde>
          <sitekeywordsit><![CDATA[Home page di Support Center]]></sitekeywordsit>
          <sitekeywordses><![CDATA[Página de inicio del Centro de soporte]]></sitekeywordses>
          <sitekeywordspt><![CDATA[Página inicial do Centro de suporte]]></sitekeywordspt>
@@ -482,10 +462,10 @@
    </url>
    <url>
       <loc>https://support.hpe.com/hpsc/wc/public/home</loc>
-      <lastmod>2018-08-31</lastmod>
+      <lastmod>2018-09-18</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-         <modificationdate>2018-08-31</modificationdate>
+         <modificationdate>2018-09-18</modificationdate>
          <sitekeywordsen><![CDATA[Warranty check]]></sitekeywordsen>
          <sitekeywordsfr><![CDATA[Vérification de garantie]]></sitekeywordsfr>
          <sitekeywordsde><![CDATA[Garantieüberprüfung]]></sitekeywordsde>
