@@ -17,6 +17,7 @@ The _Creators_ group, led by Kieran and Mark focuses on creative coding in vario
 
 - [Creators Introduction Slides](https://coderdojoathenry.github.io/coderdojo-intro2017)
 - [Creators 2017 Showcase](https://coderdojoathenry.github.io/creators2017)
+- [Creators 2018 Showcase](https://coderdojoathenry.github.io/creators2018)
 
 ## Bodgers 
 The _Bodgers_ group, led by Declan, involves digital making and physical computing using the Raspberry Pi and Arduino.  They also specialize in defending the dojo against zombie attacks.
