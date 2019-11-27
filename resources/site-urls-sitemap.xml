@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:coveo="http://www.coveo.com/schemas/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <url>
+      <loc>https://pg-receiver-pro.glb.itcs.hpe.com/WclWeb/WclEntry.aspx</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[Chat with HPE]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Discuter avec HPE]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Chat mit HPE]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Chattare con HPE]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Chat com a HPE]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Conversar com HPE]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Porozmawiaj z HPE]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Чат с HPE]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[HPE와 채팅]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[HPEサポートとのチャット]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[与慧与交谈]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[與 HPE 交談]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://www.hpe.com/us/en/contact-hpe.html</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[Contact HPE]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Contacter HPE]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Kontakt zu HPE aufnehmen]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Contattare HPE]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Comuníquese con HPE]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Fale com a HPE]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Kontakt z HPE]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Cвязь с HPE]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[HPE에 문의]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[日本HPEへのお問い合わせ]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[联系慧与]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[聯絡 HPE]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://itg-ext.support.hpe.com/hpsc/diag/view</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[Diagnostic passwords]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Mots de passe de diagnostic]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Diagnosekennwörter]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Password degli strumenti di diagnostica]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Contraseñas para diagnóstico]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Senhas de diagnóstico]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Hasła diagnostyki]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Пароли диагностики]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[진단 암호]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[診断パスワード]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[诊断密码]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[診斷密碼]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>http://community.hpe.com</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[Forums]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Forums]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Foren]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Forum]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Foros]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Fóruns]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Fora]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Форумы]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[포럼]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[フォーラム]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[论坛]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[討論園地]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://ahsv-itg-ext.support.hpe.com/hpesc/ahsv-prom</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[HPE Active Health System Viewer]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Visionneuse de Active Health System HPE]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[HPE Active Health System Viewer]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Visore di HPE Active Health System]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Visor para el sistema de estado activo de HPE]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[HPE Active Health System Viewer]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Przeglądarka oprogramowania HPE Active Health System]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[HPE Средство просмотра для ПО Active Health System]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[HPE 액티브 헬스 시스템 뷰어]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[HPE Active Health Systemビューアー]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[HPE Active Health System Viewer]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[HPE 主動式運作狀況系統檢視器]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://www.hpe.com/us/en/home.html</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[HPE home]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Accueil HPE]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[HPE home]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Home HPE]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Página de inicio de HPE]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[HPE - início]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[strona domowa HPE]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[домашняя страница HPE]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[HPE 홈]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[HPEホーム]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[慧与首页]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[HPE 首頁]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://h20588.www2.hpe.com/tsusbportal/index.do</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[HPE Software updates & licensing]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Mises à jour et licences logicielles HPE]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[HPE Software-Updates und Lizenzen]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Aggiornamenti e licenze HPE software]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Licencias y actualizaciones de software de HPE]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Atualizações e licenciamento da HPE Software]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Aktualizacje i licencje oprogramowania HPE]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Обновление и лицензирование программного обеспечения HPE]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[HPE 소프트웨어 업데이트 및 라이센스]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[HPEソフトウェアアップデートとライセンス]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[慧与软件更新和许可]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[HPE 軟體更新與授權]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://itg-ext.support.hpe.com/hpesc/ilo-amp-entitlement</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[iLO Amplifier Pack Product Entitlement Report]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Rapport de droits des produits de iLO Amplifier Pack]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[iLO Amplifier Pack Produktberechtigungsbericht]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Report di autorizzazione dei prodotti di iLO Amplifier Pack]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Informe de derechos sobre el producto iLO Amplifier Pack]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Relatório de direito do produto iLO Amplifier Pack]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Raport dotyczący uprawnień do produktu iLO Amplifier Pack]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Отчет о предоставлении прав на использование продуктов iLO Amplifier Pack]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[iLO Amplifier Pack 제품 자격 보고서]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[iLO Amplifier Pack Product Entitlement Report]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[iLO Amplifier Pack Product Entitlement Report（iLO Amplifier 打包产品权利报告）]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[iLO Amplifier Pack 產品授權報告]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://itg-ext.support.hpe.com/portal/site/hpsc/aae/home</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[My contracts and warranties]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Mes contrats et garanties]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Meine Verträge und Garantien]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Contratti e garanzie personali]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Mis contratos y garantías]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Meus contratos e garantias]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Moje umowy i gwarancje]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Мои контракты и гарантии]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[내 계약 및 보증]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[マイ契約および標準保証]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[我的合同和保修]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[我的合約與保固]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://itg-ext.support.hpe.com/hpesc/home/datacentercare</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[My Datacenter Care]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Mes Datacenter Care]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Mein Datacenter Care]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Servizi per Datacenter personale]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Mi Servicio de atención de centro de datos]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Meu Datacenter Care]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Moje Datacenter Care]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[My Datacenter Care]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[내 데이터센터 케어]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[マイデータセンターケア]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[我的数据中心运维保障服务]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[我的資料中心維護]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://idp.passport.hpe.com/affwebservices/public/saml2sso?SPID=hpflowcm.com</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[My Document Repository]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Mon référentiel de documents]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Mein Dokument-Archiv]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Archivio documenti personale]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Mi depósito de documentos]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Meu repositório de documentos]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Moje repozytorium dokumentów]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Мое хранилище документов]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[내 문서 리포지토리]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[マイドキュメントリポジトリ]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[我的文档存储库]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[我的文件存放庫]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://itg-ext.support.hpe.com/portal/site/hpsc/it</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[My IT Environment]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Mon environnement informatique]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Meine IT-Umgebung]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Ambiente IT personale]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Mi entorno de TI]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Meu ambiente de TI]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Moje środowisko IT]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Моя ИТ-среда]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[내 IT 환경]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[マイIT環境]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[我的 IT 环境]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[我的 IT 環境]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://itg-ext.support.hpe.com/portal/site/hpsc/it/credits/dash</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[Service Credits]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Crédits de service]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Service Credits]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Crediti di servizio]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Créditos de servicio]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Créditos de serviço]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Środki na usługi]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Кредиты на обслуживание]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[서비스 크레딧]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[サービスクレジット]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[服务积分]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[服務積分]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://www.hpe.com/networking/support</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[My Networking Portal]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Mon portail réseau]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Mein Networking-Portal]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Portale Networking personale]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Mi portal de redes]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Meu portal de rede]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Mój portal sieci]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Мой сетевой портал]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[내 네트워킹 포털]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[マイネットワークポータル]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[我的网络门户网站]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[我的網路入口網站]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://infosight.nimblestorage.com</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[Nimble InfoSight]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Nimble InfoSight]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Nimble InfoSight]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[InfoSight Nimble]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Nimble InfoSight]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Nimble InfoSight]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Zwinne InfoSight]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Nimble InfoSight]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[Nimble InfoSight]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[Nimble InfoSight]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[Nimble InfoSight]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[Nimble InfoSight]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://itg-ext.support.hpe.com/portal/site/hpsc/patch/home</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[Patch management]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Gestion des correctifs]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Patch-Management]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Gestione delle patch]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Administración de parches]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Gerenciamento de patches]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Zarządzanie poprawkami]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Управление исправлениями]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[패치 관리]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[パッチ管理]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[补丁程序管理]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[補強程式管理]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://itg-ext.support.hpe.com/portal/site/hpsc/template.PUBLIC_SPF_GLOBAL_HELP</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[Portal help]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Aide sur le Portail]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Portal-Hilfe]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Guida al Portale]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Ayuda del Portal]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Ajuda do Portal]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Pomoc w Portalu]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Cправка по Nорталу]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[포털 도움말]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[ポータルヘルプ]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[门户网站帮助]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[入口網站說明]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>http://h41370.www4.hpe.com/quickspecs/overview.html</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[QuickSpecs Specs]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[QuickSpecs Specs]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[QuickSpecs Specs]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[QuickSpecs Specs]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[QuickSpecs Specs]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[QuickSpecs Specs]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[QuickSpecs Specs]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[QuickSpecs Specs]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[QuickSpecs Specs]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[QuickSpecs Specs]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[QuickSpecs Specs]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[QuickSpecs Specs]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://cfstg.passport.hpe.com/hppcf/createuser.do</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[Register]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[S'inscrire]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Registrieren]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Registra]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Registrar]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Cadastre-se]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Zarejestruj się]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Pегистрация]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[등록]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[登録]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[注册]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[註冊]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://itg-ext.support.hpe.com/portal/site/hpsc/public/kb/secBullArchive</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[Security Bulletins]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Bulletins de sécurité]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Sicherheitsbulletins]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Bollettini sulla sicurezza]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Boletines de seguridad]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Boletins de segurança]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Biuletyny zabezpieczeń]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Бюллетени безопасности]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[보안 게시판]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[セキュリティ情報]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[安全公告]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[安全公告]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://itg-ext.support.hpe.com/portal/site/hpsc/settings</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[Settings]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Paramètres]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Einstellungen]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Impostazioni]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Configuración]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Configurações]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Ustawienia]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Hастройки]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[설정]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[設定]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[设置]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[設定]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://itg-ext.support.hpe.com/portal/site/hpsc/public/help/contactHP/questions</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[Site support]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Assistance sur le site]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Vor-Ort-Support]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Assistenza sito]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Soporte del sitio]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Suporte do site]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Wsparcie w witrynie]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Nоддержка сайта]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[사이트 지원]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[サイトサポート]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[网站支持]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[網站支援]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://infosight.hpe.com/app/login</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[StoreFront Remote]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[StoreFront Remote]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[StoreFront Remote]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[StoreFront Remote]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[StoreFront Remote]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[StoreFront Remote]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[StoreFront Remote]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[StoreFront Remote]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[StoreFront Remote]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[StoreFront Remote]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[StoreFront Remote]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[StoreFront Remote]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://itg-ext.support.hpe.com/portal/site/hpsc/public/scm/home</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[Submit or manage support cases]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Soumettre ou gérer des dossiers d'assistance]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Senden und Verwalten von Supportanfragen]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Inoltrare e gestire chiamate di assistenza]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Enviar o administrar casos de soporte]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Enviar ou gerenciar casos de suporte]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Przesyłanie lub zarządzanie zgłoszeniami serwisowymi]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Подача заявок на техническую поддержку и управление]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[지원 케이스 제출 또는 관리]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[サポートケースの送信/管理]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[保修信息查询]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[提交或管理支援服務案]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://itg-ext.support.hpe.com/hpesc/public/home</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[Support Center Home]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Page d'accueil du Support Center]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Startseite des Support Centers]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Home page di Support Center]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Página de inicio del Centro de soporte]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Página inicial do Centro de suporte]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Strona główna Centrum wsparcia]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Главная страница центра поддержки]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[고객 지원 센터 홈]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[サポートセンターホーム]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[支持中心主页]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[支援中心首頁]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://itg-ext.support.hpe.com/hpsc/wc/public/home</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[Warranty check]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Vérification de garantie]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Garantieüberprüfung]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Controllo della garanzia]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Comprobación de la garantía]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Verificação de garantia]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Sprawdzanie gwarancji]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Nроверка гарантии]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[보증 확인]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[標準保証の確認]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[保修信息查询]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[保固檢查]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://asp.arubanetworks.com</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[Aruba Support Portal]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Portail d'assistance Aruba]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[Aruba Support-Portal]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Portale di supporto di Aruba]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Portal de soporte de Aruba]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Portal de Suporte Aruba]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Portal pomocy technicznej Aruba]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Портал поддержки Aruba]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[Aruba 지원 포털]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[Arubaサポートポータル]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[Aruba 支持门户网站]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[Aruba 支援入口網站]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://www.hpe.com/support/mapr/</loc>
+      <lastmod>2019-11-26</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+         <modificationdate>2019-11-26</modificationdate>
+         <sitekeywordsen><![CDATA[Contact MapR Support]]></sitekeywordsen>
+         <sitekeywordsfr><![CDATA[Contacter l'assistance MapR]]></sitekeywordsfr>
+         <sitekeywordsde><![CDATA[MapR Support kontaktieren]]></sitekeywordsde>
+         <sitekeywordsit><![CDATA[Contattare assistenza MapR]]></sitekeywordsit>
+         <sitekeywordses><![CDATA[Contáctese con el soporte técnico de MapR]]></sitekeywordses>
+         <sitekeywordspt><![CDATA[Fale com o suporte da MapR]]></sitekeywordspt>
+         <sitekeywordspl><![CDATA[Kontakt z pomocą techniczną MapR]]></sitekeywordspl>
+         <sitekeywordsru><![CDATA[Обращение в службу поддержки MapR]]></sitekeywordsru>
+         <sitekeywordsko><![CDATA[MapR 지원팀에 문의]]></sitekeywordsko>
+         <sitekeywordsja><![CDATA[MapRサポートへの連絡]]></sitekeywordsja>
+         <sitekeywordszh><![CDATA[联系 MapR 支持]]></sitekeywordszh>
+         <sitekeywordszhtw><![CDATA[聯絡 MapR 支援人員]]></sitekeywordszhtw>
+      </coveo:metadata>
+   </url>
+</urlset>
